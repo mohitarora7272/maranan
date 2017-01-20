@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/drawer_layout_devote"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white">
+
+        <!-- Framelayout to display Fragments -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/top_bar">
+
+                <TextView
+                    android:id="@+id/tv_devote"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="@string/title_dedicated"
+                    android:textColor="@color/white"
+                    android:textSize="20sp" />
+
+                <ImageView
+                    android:id="@+id/arrow_action"
+                    android:layout_width="45dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignTop="@+id/tv_devote"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/arrow_bottom"
+                    android:contentDescription="@string/app_name" />
+            </RelativeLayout>
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fillViewport="true"
+                android:scrollbars="none">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:id="@+id/linear_devote1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="5dp"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:weightSum="2">
+
+                            <Spinner
+                                android:id="@+id/spnr_one"
+                                android:layout_width="0dp"
+                                android:layout_height="50dp"
+                                android:layout_marginRight="5dp"
+                                android:layout_weight="1"
+                                android:background="@drawable/select1"
+                                android:textColor="@color/black_bg" />
+
+                            <Spinner
+                                android:id="@+id/spnr_two"
+                                android:layout_width="0dp"
+                                android:layout_height="50dp"
+                                android:layout_marginLeft="5dp"
+                                android:layout_weight="1"
+                                android:background="@drawable/select1"
+                                android:textColor="@color/black_bg" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="5dp"
+                            android:orientation="horizontal"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:weightSum="3">
+
+                            <Button
+                                android:id="@+id/btn_woman"
+                                android:layout_width="0dp"
+                                android:layout_height="46dp"
+                                android:layout_marginRight="5dp"
+                                android:layout_weight=".7"
+                                android:background="@drawable/input"
+                                android:text="@string/bat_hebrew"
+                                android:textColor="@color/black_bg"
+                                android:textSize="12sp" />
+
+                            <Button
+                                android:id="@+id/btn_men"
+                                android:layout_width="0dp"
+                                android:layout_height="46dp"
+                                android:layout_marginLeft="5dp"
+                                android:layout_weight=".7"
+                                android:background="@drawable/blue_box"
+                                android:text="@string/ben_hebrew"
+                                android:textColor="@color/black_bg"
+                                android:textSize="12sp" />
+
+                            <RelativeLayout
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="5dp"
+                                android:layout_weight="1.6">
+
+                                <AutoCompleteTextView
+                                    android:id="@+id/edt_name"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:background="@drawable/input"
+                                    android:digits="@string/characters_mix"
+                                    android:ems="10"
+                                    android:hint="@string/firstname_hebrew"
+                                    android:lines="1"
+                                    android:paddingLeft="20dp"
+                                    android:paddingRight="40dp"
+                                    android:singleLine="true"
+                                    android:textColor="@color/black_bg"
+                                    android:textSize="12sp"></AutoCompleteTextView>
+
+                                <Button
+                                    android:id="@+id/btn_microphone_firstname"
+                                    style="?android:attr/buttonStyleSmall"
+                                    android:layout_width="30dp"
+                                    android:layout_height="30dp"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_centerInParent="true"
+                                    android:layout_marginRight="5dp"
+                                    android:background="@drawable/mike_icon_gray" />
+                            </RelativeLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="5dp"
+                            android:orientation="horizontal"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:weightSum="2"
+                            android:baselineAligned="false">
+
+                            <RelativeLayout
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1">
+
+                                <AutoCompleteTextView
+                                    android:id="@+id/edt_name_optional"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:background="@drawable/input"
+                                    android:digits="@string/characters_mix"
+                                    android:ems="10"
+                                    android:hint="@string/nameOpt_hebrew"
+                                    android:lines="1"
+                                    android:paddingLeft="20dp"
+                                    android:paddingRight="40dp"
+                                    android:singleLine="true"
+                                    android:textColor="@color/black_bg"
+                                    android:textSize="12sp"></AutoCompleteTextView>
+
+                                <Button
+                                    android:id="@+id/btn_microphone_nameoptional"
+                                    style="?android:attr/buttonStyleSmall"
+                                    android:layout_width="30dp"
+                                    android:layout_height="30dp"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_centerInParent="true"
+                                    android:layout_marginRight="5dp"
+                                    android:background="@drawable/mike_icon_gray" />
+                            </RelativeLayout>
+
+                            <RelativeLayout
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1">
+
+                                <AutoCompleteTextView
+                                    android:id="@+id/edt_there_is"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="5dp"
+                                    android:background="@drawable/input"
+                                    android:digits="@string/characters_mix"
+                                    android:ems="10"
+                                    android:hint="@string/ThereIs_hebrew"
+                                    android:lines="1"
+                                    android:paddingLeft="20dp"
+                                    android:paddingRight="40dp"
+                                    android:singleLine="true"
+                                    android:textColor="@color/black_bg"
+                                    android:textSize="12sp"></AutoCompleteTextView>
+
+                                <Button
+                                    android:id="@+id/btn_microphone_thereIs"
+                                    style="?android:attr/buttonStyleSmall"
+                                    android:layout_width="30dp"
+                                    android:layout_height="30dp"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_centerInParent="true"
+                                    android:layout_marginRight="5dp"
+                                    android:background="@drawable/mike_icon_gray" />
+                            </RelativeLayout>
+                        </LinearLayout>
+
+                        <HorizontalScrollView
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:visibility="gone">
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:orientation="horizontal"
+                                android:padding="10dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:singleLine="true"
+                                    android:text="@string/signature_hebrew"
+                                    android:textColor="@color/black_bg" />
+
+                                <CheckBox
+                                    android:id="@+id/chk_box"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content" />
+                            </LinearLayout>
+                        </HorizontalScrollView>
+
+                        <Button
+                            android:id="@+id/btn_save"
+                            android:layout_width="fill_parent"
+                            android:layout_height="50dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:layout_marginTop="15dp"
+                            android:background="@drawable/blue_btn"
+                            android:padding="10dp"
+                            android:text="@string/save_hebrew"
+                            android:textColor="@android:color/white" />
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="10dp">
+
+                        <com.nhaarman.listviewanimations.itemmanipulation.DynamicListView
+                            android:id="@+id/lv_list_register"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"
+                            android:layout_marginRight="20dp"
+                            android:cacheColorHint="@android:color/transparent"
+                            android:divider="@android:color/transparent"
+                            android:scrollbars="none"
+                            android:smoothScrollbar="false" />
+
+                        <ProgressBar
+                            android:id="@+id/progressBar"
+                            style="?android:attr/progressBarStyle"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true"
+                            android:progressDrawable="@drawable/circular_progress_bar"
+                            android:visibility="visible" />
+
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="20dp"
+                            android:layout_alignParentBottom="true"
+                            android:layout_below="@+id/lv_list_register"
+                            android:background="@android:color/transparent" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/realtive_devote"
+            android:layout_width="220dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="end"
+            android:background="@color/bg_navigation_blue">
+
+            <ImageView
+                android:id="@+id/img_devote"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_marginBottom="40dp"
+                android:layout_marginLeft="40dp"
+                android:background="@drawable/sign_out"
+                android:contentDescription="@string/app_name"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/tv_devote_side"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="43dp"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@+id/img_devote"
+                android:text="@string/logout"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
+        </RelativeLayout>
+    </android.support.v4.widget.DrawerLayout>
+
+</LinearLayout>

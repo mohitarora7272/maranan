@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:background="@android:color/transparent" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp" >
+
+        <EditText
+            android:id="@+id/edt_forgotPass"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/greybg_heb"
+            android:drawingCacheQuality="high"
+            android:ems="10"
+            android:gravity="right|center_vertical"
+            android:hint="@string/lastname_hebrew"
+            android:inputType="textEmailAddress"
+            android:paddingRight="60dp"
+            android:textColor="@android:color/black"
+            android:textColorHint="@android:color/black"
+            android:textSize="15sp" >
+        </EditText>
+
+        <ImageView
+            android:layout_width="15dp"
+            android:layout_height="12dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/edt_forgotPass"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="25dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/mail"
+            android:contentDescription="@string/app_name" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn_send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/bg_blue_btn"
+        android:gravity="center"
+        android:text="Send"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:textSize="20sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:background="@android:color/transparent" />
+
+</LinearLayout>

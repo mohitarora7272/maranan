@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="text_color_blue">#071E54</color>
+    <color name="blue_down">#001331</color>
+    <color name="blue_text_color">#4DB9C9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black_bg">#000610</color>
+    <color name="bg_transparent_black">#CC000000</color>
+    <color name="bg_navigation_blue">#000C1C</color>
+    <color name="bg_blue_btn">#28B1DC</color>
+    <color name="blue_seekbar_back">#108BCE</color>
+    <color name="bg_navigation_black">#1C1C1C</color>
+    <color name="bg_navigation_black2">#2C2C2C</color>
+    <color name="action_bar_bg_gray">#F6F6F6</color>
+    <color name="title_color">#404040</color>
+    <color name="des_color">#5A5A5A</color>
+    <color name="date_time_color">#82C4C4</color>
+    <color name="bg_play_dash">#F6F8FA</color>
+    <color name="time_tv_color_gray">#B6B9BD</color>
+    <color name="prayer_top_bg">#ECEFF4</color>
+    <color name="prayer_top_bg_blue">#3F9DC6</color>
+    <color name="this_prayer_about_it_color">#4299A6</color>
+    <color name="blue_prayer">#0380B7</color>
+    <color name="green_prayer">#64B100</color>
+    <color name="red_prayer">#AB0D1F</color>
+    <color name="pdf_name_color">#414A53</color>
+  
+</resources>

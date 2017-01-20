@@ -1,0 +1,61 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.maranan"
+        minSdkVersion 9
+        targetSdkVersion 23
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+}
+
+dependencies {
+    compile project(':library')
+    compile project(':library_slideuplayer')
+    compile project(':pulltorefreshlibrary')
+    compile project(':library_sliding')
+    compile project(':library_swipelistview')
+    compile project(':facebookSDK')
+    compile 'com.google.code.gson:gson:2.3.1'
+    compile 'com.google.android.gms:play-services:+'
+    compile files('libs/androidasync-2.1.6.jar')
+    compile files('libs/apache-httpcomponents-httpclient.jar')
+    compile files('libs/apache-httpcomponents-httpcore.jar')
+    compile files('libs/httpmime-4.1.1.jar')
+    compile files('libs/ion-2.1.6.jar')
+    compile files('libs/listviewanimations_lib-core-slh_3.1.0.jar')
+    compile files('libs/listviewanimations_lib-core_3.1.0.jar')
+    compile files('libs/listviewanimations_lib-manipulation_3.1.0.jar')
+    compile files('libs/slider.jar')
+    compile files('libs/YouTubeAndroidPlayerApi.jar')
+    compile 'com.android.support:support-v4:23.1.1'
+    compile 'com.android.support:multidex:1.0.0'
+    compile ('com.rengwuxian.materialedittext:library:1.7.1') {
+        exclude group: 'com.nineoldandroids', module: 'library'
+    }
+
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.android.support:appcompat-v7:23.0.1'
+    compile 'com.android.support:design:23.0.1'
+    compile 'com.squareup.retrofit:retrofit:1.9.0'
+    compile 'com.squareup.okhttp:okhttp:2.3.0'
+    compile 'com.fasterxml.jackson.core:jackson-annotations:2.5.0'
+    compile 'javax.annotation:javax.annotation-api:1.2-b01'
+    compile 'com.nispok:snackbar:2.11.+'
+    compile 'com.android.support:palette-v7:23.2.0'
+
+}

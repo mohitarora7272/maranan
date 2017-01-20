@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="right" >
+
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white" >
+
+        <!-- Framelayout to display Fragments -->
+
+        <FrameLayout
+            android:id="@+id/frame_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+        </FrameLayout>
+
+        <!-- Listview to display slider menu -->
+
+        <RelativeLayout
+            android:id="@+id/realtive_naviagate"
+            android:layout_width="140dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:layout_toRightOf="@+id/relate_container" >
+
+            <ImageView
+                android:id="@+id/img_sideBtn_Up"
+                android:layout_width="30dp"
+                android:layout_height="50dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerInParent="true"
+                android:background="@drawable/side_left_arrow"
+                android:contentDescription="@string/app_name"
+                android:visibility="visible" />
+
+            <ListView
+                android:id="@+id/list_slidermenu"
+                android:layout_width="110dp"
+                android:layout_height="match_parent"
+                android:background="@android:color/black"
+                android:choiceMode="singleChoice"
+                android:scrollbars="none"
+                android:divider="@android:color/transparent"
+                android:dividerHeight="5dp" />
+        </RelativeLayout>
+    </android.support.v4.widget.DrawerLayout>
+
+</LinearLayout>

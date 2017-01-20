@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_navigation_black" >
+
+    <View
+        android:id="@+id/view_top"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="80dp"
+        android:background="@color/bg_navigation_black2" />
+
+    <TextView
+        android:id="@+id/img_broadcast_sidebar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/view_top"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:text="@string/alerts_side_hebrew"
+        android:textColor="@color/this_prayer_about_it_color"
+        android:textSize="15sp"
+        android:visibility="visible" />
+
+    <View
+        android:id="@+id/view_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/img_broadcast_sidebar"
+        android:layout_marginTop="10dp"
+        android:background="@color/bg_navigation_black2" />
+
+    <TextView
+        android:id="@+id/tv_this_praying_about_it"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/view_bottom"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="right"
+        android:text="@string/this_praying_about_it"
+        android:textColor="@color/this_prayer_about_it_color"
+        android:textSize="15sp"
+        android:visibility="visible" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/tv_this_praying_about_it"
+        android:layout_marginTop="10dp"
+        android:background="@color/bg_navigation_black2" />
+
+   
+
+</RelativeLayout>

@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/delete_icon_list.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/delete_icon_list.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/maranan_icon.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/maranan_icon.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/circle_yellow.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/circle_yellow.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/white_box.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/white_box.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/circle_green.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/circle_green.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/fav_green.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/fav_green.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/menu_new.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/menu_new.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/phone_icon.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/phone_icon.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/sucess.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/sucess.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/circle.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/circle.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/back_icon_action.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/back_icon_action.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/play_arrow_white_noti.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/play_arrow_white_noti.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/profile_back_pic22.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/profile_back_pic22.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/icon_green.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/icon_green.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/location_icon_list.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/location_icon_list.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/side_right_arrow.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/side_right_arrow.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/play_btn.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/play_btn.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/edit_devote_icon2.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/edit_devote_icon2.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/blue_box.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/blue_box.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/graytoggle.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/graytoggle.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/circle_profile_new.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/circle_profile_new.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/project_eye.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/project_eye.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/circle_blue.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/circle_blue.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/select1.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/select1.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/left_text.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/left_text.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/clock.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/clock.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/right.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/right.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/check_green_small.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/check_green_small.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/profile_back_pic.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/profile_back_pic.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/right_text.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/right_text.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/arrow_bottom.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/arrow_bottom.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/icon_pause_noti.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/icon_pause_noti.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/mike_icon_gray.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/mike_icon_gray.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/arrow_top.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/arrow_top.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/cross_white_new.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/cross_white_new.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/pause_icon_list.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/pause_icon_list.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/password.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/password.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/phone_green.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/phone_green.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/dot_red.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/dot_red.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/notification_logo.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/notification_logo.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/back_arrow_list.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/back_arrow_list.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/fb_heb.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/fb_heb.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/red_circle_new.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/red_circle_new.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/gray_map.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/gray_map.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/icon_blue.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/icon_blue.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/icon_red.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/icon_red.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/pause_blue.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/pause_blue.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/greybg_red.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/greybg_red.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/play_blue.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/play_blue.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/top_text.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/top_text.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/fav_both.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/fav_both.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/circle_perpal.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/circle_perpal.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/pause_new.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/pause_new.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/blue_back_new.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/blue_back_new.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/icon_watch_blue.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/icon_watch_blue.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/red_scrubber_track_holo_light.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/red_scrubber_track_holo_light.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/play_video_new.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/play_video_new.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/call_icon.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/call_icon.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/sign_out.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/sign_out.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/greentoggle.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/greentoggle.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/top_bar.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/top_bar.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/icon_play_news.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/icon_play_news.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/side_left_arrow.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/side_left_arrow.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/black_profile_icon.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/black_profile_icon.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/video_text.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/video_text.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/green_circle_new.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/green_circle_new.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/fail.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/fail.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/red_scrubber_primary_holo.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/red_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/login_heb.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/login_heb.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/mike_icon_black.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/mike_icon_black.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/play_icon_list.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/play_icon_list.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/or_heb.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/or_heb.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/input_red.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/input_red.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/blue_map.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/blue_map.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/blue_btn.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/blue_btn.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/profile_right.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/profile_right.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/greybg_heb.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/greybg_heb.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/red_scrubber_secondary_holo.9.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/red_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/blue_man.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/blue_man.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/play_new.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/play_new.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/gray_man.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/gray_man.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/mail.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/mail.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/checked_green.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/checked_green.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/downloading_pdf.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/downloading_pdf.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/icon_text_news.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/icon_text_news.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/setting_icon_action.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/setting_icon_action.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/unchecked_green.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/unchecked_green.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/fav_blue.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/fav_blue.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/delete_red.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/delete_red.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/red_icon_live.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/red_icon_live.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/icon_cross.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/icon_cross.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/avir_cancel.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/avir_cancel.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/icon_failed.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/icon_failed.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/input.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/input.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/red_back_new.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/red_back_new.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/splash_back.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/splash_back.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/newshare.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/newshare.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/circle_white.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/circle_white.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/black_bar.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/black_bar.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/gplus_heb.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/gplus_heb.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/mike_yellow.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/mike_yellow.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/build/intermediates/res/merged/debug/drawable-hdpi/logo.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/Maranan/maranan/src/main/res/drawable-hdpi/logo.png"
+    }
+]
